@@ -1,0 +1,6 @@
+{
+  "name": "ApotekPOS - Sistem Kasir, Stok & Rekam Medis",
+  "description": "Sistem POS dan manajemen apotek lengkap terintegrasi kasir, rekam medis pasien, inventori otomatis, 2FA, barcode scanner, cetak struk, dan analitik bisnis.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
